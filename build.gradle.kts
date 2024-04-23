@@ -111,7 +111,7 @@ subprojects {
     val n4jVersion = "5.18.1"
     val commons_cliVersion= "1.6.0"
     val retrofitVersion = "2.11.0"
-    val commons_emailVersion =" 1.6.0"
+    val commons_emailVersion ="1.6.0"
     val webDriver_version = "4.19.1"
 
     implementation("com.github.spotbugs:spotbugs-annotations:4.8.0")
