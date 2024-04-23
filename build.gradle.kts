@@ -105,7 +105,7 @@ subprojects {
     val guavaVersion = "32.1.3-jre"
     val logbackVersion = "1.5.4"
     val corenlpVersion = "4.5.6"
-    val commons_csvVersion ="1.10.0"
+    val commons_csvVersion = "1.10.0"
     val jacksonVersion = "2.17.0"
     val commons_textVersion = "1.11.0"
     val n4jVersion = "5.18.1"
